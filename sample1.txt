@@ -1,3 +1,5 @@
+# sample
+sample repo
 echo # sample >> README.md
 git init
 git add README.md
